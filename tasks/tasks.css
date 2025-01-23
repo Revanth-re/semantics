@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.images img{
+
+    border-radius: 20px;
+    border: 6px solid grey;
+}
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
